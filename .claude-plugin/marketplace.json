@@ -1,0 +1,16 @@
+{
+  "name": "repo-check",
+  "owner": {
+    "name": "MakeNative"
+  },
+  "metadata": {
+    "description": "Prüft fremde GitHub-Repos auf Köder-Merkmale, bevor Dateien daraus geladen werden: Archive oder Installer im Dateibaum, junges Konto mit wenigen Repos neben einem älteren Repo gleichen Namens. Lädt selbst keine Datei."
+  },
+  "plugins": [
+    {
+      "name": "repo-check",
+      "source": ".",
+      "description": "Prüft fremde GitHub-Repos auf Köder-Merkmale, bevor Dateien daraus geladen werden: Archive oder Installer im Dateibaum, junges Konto mit wenigen Repos neben einem älteren Repo gleichen Namens. Lädt selbst keine Datei."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "repo-check",
+  "description": "Prüft fremde GitHub-Repos auf Köder-Merkmale, bevor Dateien daraus geladen werden: Archive oder Installer im Dateibaum, junges Konto mit wenigen Repos neben einem älteren Repo gleichen Namens. Lädt selbst keine Datei.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ceichmueller"
+  },
+  "license": "MIT"
+}
